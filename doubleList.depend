@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1425091868 source:f:\doublelist\basestruct.cpp
+	"BaseStruct.h"
+
+1425115132 f:\doublelist\basestruct.h
+	<iostream>
+
+1425129533 source:f:\doublelist\main.cpp
+	<iostream>
+	"doubleLinkedList.h"
+
+1425128661 f:\doublelist\doublelinkedlist.h
+
+1425129606 source:f:\doublelist\doublelinkedlist.cpp
+	<cstddef>
+	"doubleLinkedList.h"
+
